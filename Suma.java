@@ -2,16 +2,6 @@ package git.grupal;
 
 public class Suma {
 
-	/*
-	 * Clase 1: Suma. Esta clase implementará todos los métodos que están
-	 * relacionados con la sumas de la calculadora. Esta clase tendrá los siguientes
-	 * métodos: 1. Suma de dos números reales, tendrá 2 parámetros de entrada y uno
-	 * de salida que será la solución. 2. Suma de dos números enteros, tendrá 2
-	 * parámetros de entrada y uno de salida que será la solución. 3. Suma de tres
-	 * números reales, tendrá 3 parámetros de entrada y uno de salida que será la
-	 * solución. 4. Suma con valor acumulado, tendrá un parámetro de entrada y la
-	 * clase deberá de guardar el valor acumulado.
-	 */
 
 	private double acumulado;
 	
